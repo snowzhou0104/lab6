@@ -25,4 +25,4 @@
     If the user would like to further the development of the code, fork the /Lab6/ directory. Once you have altered the code, use the play button to check for any bugs and ensure it runs correctly. 
    
 # Miscellany
-    We wrote the license and code of conduct to ensure that the code is free and anyone can alter the code. We chose to do it in our own words and made sure to include everyone.
+    We wrote the license and code of conduct to ensure that the code is free and anyone can alter the code. We chose to do it in our own words and made sure to include everyone. And yeah.
